@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f3f3;
+  text-align: center;
+  margin-top: 100px;
+  font-weight: bold;
+}
+
+.container {
+  background: pink;
+  padding: 40px;
+  max-width: 500px;
+  margin: auto;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+}
+
+.title {
+  background: rgb(249, 207, 214);
+  border: solid;
+  border-radius: 16px;
+  border-color: lightgrey;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: lightpink;
+  border-radius: 16px;
+}
+
+h1 {
+  font-weight: bold;
+}
